@@ -1,0 +1,11 @@
+# Core
+pyspark>=3.3.0
+py4j>=0.10.9
+
+# Data Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+plotly>=5.10.0
