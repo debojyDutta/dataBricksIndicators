@@ -91,7 +91,7 @@ cd dataBricksIndicators</code></pre>
 <h2>👨‍💻 Author</h2>
 <p>
   Developed by <b>Debojyoti Dutta</b><br>
-  📧 <a href="mailto:your.email@example.com">your.email@example.com</a>
+  📧 <a href="debojyotidutta54754@gmail.com">EMAIL Me :></a>
 </p>
 
 <hr>
