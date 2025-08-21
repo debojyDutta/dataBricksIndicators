@@ -65,19 +65,10 @@ cd dataBricksIndicators</code></pre>
 
 <h2 align="center">📷 Example Visualization</h2>
 <p align="center">
-  <img src="docs/example_chart.png" alt="Indicator Visualization Example"
-       width="680"
-       style="max-width:100%; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.15);" />
-</p>
-
-<hr>
-
-<h2>🌐 Sample Output</h2>
-<p>
-  Hosted interactive output available here:
-  <br><br>
-  <a href="https://debojydutta.github.io/dataBricksIndicators/" target="_blank" style="font-weight:bold; font-size:16px; color:#0366d6;">
-    🔗 Live Sample Output
+  <a href="https://debojydutta.github.io/dataBricksIndicators/" target="_blank">
+    <img src="docs/example_chart.png" alt="Indicator Visualization Example"
+         width="680"
+         style="max-width:100%; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,0.15);" />
   </a>
 </p>
 
